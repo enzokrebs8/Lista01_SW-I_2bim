@@ -1,0 +1,14 @@
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\bin\Debug\net8.0\exe9.exe
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\bin\Debug\net8.0\exe9.deps.json
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\bin\Debug\net8.0\exe9.runtimeconfig.json
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\bin\Debug\net8.0\exe9.dll
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\bin\Debug\net8.0\exe9.pdb
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\exe9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\exe9.AssemblyInfoInputs.cache
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\exe9.AssemblyInfo.cs
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\exe9.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\exe9.dll
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\refint\exe9.dll
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\exe9.pdb
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\exe9.genruntimeconfig.cache
+C:\Users\Enzo\OneDrive - Etec Centro Paula Souza\Documents\ETEC\2° ano C - 2024\Curso Técnico\Material-SW\Lista01_SW-I_2bim\exe9\exe9\exe9\obj\Debug\net8.0\ref\exe9.dll
